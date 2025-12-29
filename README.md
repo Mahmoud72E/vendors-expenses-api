@@ -212,14 +212,6 @@ Tests cover:
 
 ---
 
-## Bonus Features (Optional)
-
-* File upload for expense attachments
-* CSV export for expenses and summary reports
-* Postman collection included
-
----
-
 ## Author
 
 **Mahmoud Mohamed** – Backend Developer (Laravel, PHP)
